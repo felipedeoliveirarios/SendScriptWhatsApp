@@ -1,4 +1,4 @@
-CACHORRO-SALSICHAAAAAA
+enviarSpam(`CACHORRO-SALSICHAAAAAA
 CACHORRO-SALSICHAAaaaa
 Não é cachorro-pão
 Cachorro-molho não
@@ -8,4 +8,4 @@ Nem Cachorro-Linguiçaaaaa
 Não é cachorro-pão
 Cachorro-molho não
 É Cachorro-Salsichaaa
-(Nya)
+(Nya)`, 15, 1500)
