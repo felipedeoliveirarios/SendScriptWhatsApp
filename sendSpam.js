@@ -1,4 +1,4 @@
-function enviarScript(scriptText, loop){
+function enviarSpam(scriptText, loop, interval){
     const lines = scriptText.split("\n"); 
     let i = 0;
 	let loopCounter = 0;
@@ -30,6 +30,6 @@ function enviarScript(scriptText, loop){
 
             }
             i++;
-        }, 1500);
+        }, interval);
 }
 
